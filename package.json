@@ -1,0 +1,31 @@
+{
+  "name": "@emotion",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/core": "0.13.1",
+    "@emotion/css": "0.9.8",
+    "@emotion/keyframes": "0.9.1",
+    "@emotion/style": "0.8.0",
+    "@emotion/styled": "0.10.6",
+    "@emotion/styled-base": "0.10.6",
+    "emotion": "9.2.12",
+    "emotion-theming": "9.2.9",
+    "facepaint": "1.2.1",
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-emotion": "9.2.12",
+    "react-scripts": "1.1.5",
+    "recompose": "0.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
